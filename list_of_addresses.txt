@@ -1,0 +1,3372 @@
+(lp0
+V1902 Middle Pointe Ln,
+p1
+aV210 Frue Ave Houghton, MI 49931
+p2
+aV404 Pewabic St Houghton, MI 49931
+p3
+aV5015 Portage Cv Houghton, MI 49931
+p4
+aV22125 Ridge Rd,
+p5
+aV1515 Ravine Side Dr,
+p6
+aV403 W Houghton Ave,
+p7
+aV212 Hubbell St,
+p8
+aVTbd 45 & 46 Pinehurst Lots 45 & 46 Huron Crk,
+p9
+aV850 W Sharon Ave # 1234,
+p10
+aV705 W Edwards Ave,
+p11
+aV1206 College Ave,
+p12
+aVGreenway Dr LOT 1-2,
+p13
+aV706 W Edwards Ave,
+p14
+aV1206 Birch St,
+p15
+aV1008 E Houghton Ave,
+p16
+aV701 Calverley Ave,
+p17
+aV1209 Birch St,
+p18
+aV47595 Birch St,
+p19
+aV1521 Brookside Dr,
+p20
+aV110 Shelden Ave,
+p21
+aV500 Dodge St,
+p22
+aV512 W Baraga Ave,
+p23
+aV46802 Us 41,
+p24
+aV510 W Jacker Ave,
+p25
+aV47886 Mcclellan St Houghton, MI 49931
+p26
+aV708 Cedar Bluff Dr,
+p27
+aV406 Pewabic St,
+p28
+aVParcel 2 Main St,
+p29
+aV505 6th St,
+p30
+aV2000 Spruce Ln,
+p31
+aV47801 Manitou St Houghton, MI 49931
+p32
+aV46411 Paradise Rd,
+p33
+aV602 7th Ave,
+p34
+aV404 Quincy St,
+p35
+aV502 E South Ave,
+p36
+aV505 W Edwards Ave,
+p37
+aV53862 Bay Shore Farm Rd,
+p38
+aV605 7th Ave,
+p39
+aV1290 Hickory Ln,
+p40
+aV46807 Pilgrim Rd,
+p41
+aV17771 Bay Shore Rd,
+p42
+aV601 Military Rd,
+p43
+aV17846 Chassell Painesdale Rd,
+p44
+aV705 W Douglass Ave,
+p45
+aV46751 Lahti Rd,
+p46
+aV17474 Valley Rd,
+p47
+aV1022 Champion St,
+p48
+aV507 W Baraga Ave,
+p49
+aV402 Frue Ave,
+p50
+aVLots 48 And 49 Pilgrim River Acres,
+p51
+aV43850 Superior Rd,
+p52
+aVGolf Dr LOT F,
+p53
+aV1524 Brookside Dr,
+p54
+aV46984 Green Acres Rd,
+p55
+aVPilgrim River Acres LOT 11,
+p56
+aV2221 Maureen Ln,
+p57
+aV407 Vivian St,
+p58
+aV47947 Mcclellan St,
+p59
+aV1203 6th Ave,
+p60
+aV701 W Lakeshore Dr,
+p61
+aV1309 E Houghton Ave,
+p62
+aV900 Donmar Dr,
+p63
+aV46736 Pilgrim Rd Houghton, MI 49931
+p64
+aV18882 Canal Rd,
+p65
+aV2106 Hunters Ln,
+p66
+aV508 W Douglass Ave Houghton, MI 49931
+p67
+aV46075 Us Highway 41,
+p68
+aV1116 7th Ave,
+p69
+aV307 Calverley Ave,
+p70
+aV511 W Douglass Ave,
+p71
+aVParcel 1 Gundlach Rd,
+p72
+aV206 Quincy St,
+p73
+aV54523 Canal Rd,
+p74
+aV1100 Spruce St,
+p75
+aV1211 5th Ave,
+p76
+aVTbd & 4 Oak Ridge St LOT 3,
+p77
+aV47031 Green Acres Rd,
+p78
+aV52199 Canal Rd,
+p79
+aV707 W Douglass Ave,
+p80
+aV1004 6th Ave,
+p81
+aV407 W Lakeshore Dr,
+p82
+aV105 W South Ave,
+p83
+aV408 E Houghton Ave,
+p84
+aV43967 Superior Rd,
+p85
+aV2000 Balsam Ln Houghton, MI 49931
+p86
+aV17145 Fire Hall Rd,
+p87
+aV200 W Houghton Ave,
+p88
+aV16544 N Superior Rd,
+p89
+aV707 W Baraga Ave,
+p90
+aVPilgrim River Acres LOT 30,
+p91
+aV206 Franklin St,
+p92
+aV807 E South Ave,
+p93
+aV21986 Volin Pl APT 1,
+p94
+aV46249 Us Highway 41,
+p95
+aV17629 Bay Shore Rd,
+p96
+aV403 Agate St,
+p97
+aV16985 Fire Hall Rd,
+p98
+aV812 W Edwards Ave,
+p99
+aV704 W Jacker Ave,
+p100
+aVTbd 23 Razorback Dr,
+p101
+aV46905 Us Highway 41,
+p102
+aV47680 Mill Rd,
+p103
+aV1213 Diamond Ave,
+p104
+aVTbd Sermon Rd # C2,
+p105
+aV202 5th St,
+p106
+aV311 W Houghton Ave,
+p107
+aV308 W Douglass Ave,
+p108
+aV49600 Gedvillas Rd,
+p109
+aV203 W South Ave,
+p110
+aV803 W Lakeshore Dr,
+p111
+aV901 Memorial Rd,
+p112
+aV1220 E Lakeshore Dr,
+p113
+aV16960 N Superior Rd,
+p114
+aV1102 6th Ave,
+p115
+aV405 Calverley Ave,
+p116
+aV421 W Jacker Ave,
+p117
+aV1524 Ravine Side Dr,
+p118
+aV46581 Us Highway 41,
+p119
+aV401 W Baraga Ave,
+p120
+aVTbd 30 Oak Ridge St Houghton, MI 49931
+p121
+aV407 Quincy St,
+p122
+aV46891 Green Acres Rd,
+p123
+aV405 Bridge St,
+p124
+aVTbd & 41 Apple Blossom Ct LOT 38,
+p125
+aV408 W Houghton Ave,
+p126
+aV47819 Manitou St,
+p127
+aV1120 7th Ave,
+p128
+aV1270 E Sharon Ave,
+p129
+aV1103 Birch St,
+p130
+aV47190 Green Acres Rd,
+p131
+aV603 Sibley Ave,
+p132
+aV51265 Canal Rd,
+p133
+aV47487 Us Highway 41,
+p134
+aVTbd 21 Sixth Ave,
+p135
+aV47638 Main St,
+p136
+aV603 Calverley Ave,
+p137
+aV901 Portage St APT 102,
+p138
+aV210 Prospect St,
+p139
+aV19360 W Edwards Ave Houghton, MI 49931
+p140
+aV505 W Jacker Ave,
+p141
+aV514 W Jacker Ave,
+p142
+aV51050 Blue Top Cabin Rd,
+p143
+aV509 W Douglass Ave,
+p144
+aV850 W Sharon Ave STE 1,
+p145
+aV1203 Ruby Ave,
+p146
+aV309 W Douglass Ave,
+p147
+aV308 Calverley Ave,
+p148
+aV403 W South Ave,
+p149
+aV1206 Maple Ln,
+p150
+aV713 W Jacker Ave,
+p151
+aV709 Calverley Ave,
+p152
+aV1409 Sugar Maple Ln,
+p153
+aV43112 Superior Rd,
+p154
+aV51578 Canal Rd,
+p155
+aV1510 Ravine Side Dr,
+p156
+aV47880 Manitou St,
+p157
+aV1301 Memorial Rd # M26,
+p158
+aV1531 Ravine Side Dr,
+p159
+aV306 6th St,
+p160
+aV1280 Hickory Ln,
+p161
+aV1521 Ravine Side Dr,
+p162
+aV1210 7th Ave,
+p163
+aV18860 Sermon Rd,
+p164
+aV801 E South Ave,
+p165
+aV1522 Ravine Side Dr,
+p166
+aV1107 8th Ave,
+p167
+aV49713 Canal Rd Houghton, MI 49931
+p168
+aV1407 Sugar Maple Ln,
+p169
+aV809 W Edwards Ave,
+p170
+aV1014 College Ave,
+p171
+aV211 East St,
+p172
+aV1107 E Houghton Ave,
+p173
+aVPilgrim River Acres LOT 29,
+p174
+aV53903 N Superior Rd,
+p175
+aV1400 Sugar Maple Ln,
+p176
+aV200 Prospect St,
+p177
+aV306 Garnet St,
+p178
+aV200 E Douglass Ave,
+p179
+aV48051 Freda Shores Rd,
+p180
+aV1206 8th Ave,
+p181
+aV48740 Airport Park Rd,
+p182
+aV1800 Robindale Dr Houghton, MI 49931
+p183
+aV314 Shelden Ave,
+p184
+aV1412 W Waterworks Cir,
+p185
+aV18956 Sermon Rd,
+p186
+aV703 W Edwards Ave,
+p187
+aV19954 Frederick St,
+p188
+aV304 Agate St,
+p189
+aVTbd 35 & 36 Oak Ridge St Houghton, MI 49931
+p190
+aV401 E Jacker Ave,
+p191
+aV16290 Eilola Rd,
+p192
+aV22705 Britz Rd,
+p193
+aV2003 Spruce Ln,
+p194
+aV16679 N Superior Rd,
+p195
+aV46434 Paradise Rd,
+p196
+aV101 W Houghton Ave,
+p197
+aV306 W Douglass Ave,
+p198
+aVTbd E Sun View Dr,
+p199
+aV904 Portage St,
+p200
+aV20072 Horatio St Houghton, MI 49931
+p201
+aV42543 Onkalos Corner Rd,
+p202
+aV1212 E Lakeshore Dr,
+p203
+aV19065 White Pine Ln,
+p204
+aV101 W South Ave,
+p205
+aV700 W Baraga Ave,
+p206
+aV16409 Liminga Rd,
+p207
+aV19401 Copper Ridge Rd,
+p208
+aV501 Agate St,
+p209
+aV207 Huron St,
+p210
+aV303 Calverley Ave,
+p211
+aV1113 7th Ave,
+p212
+aV800 Oak Grove Pkwy,
+p213
+aV1801 Woodmar Dr APT A,
+p214
+aV4006 Portage Cv,
+p215
+aV1506 Ravine Side Dr,
+p216
+aV507 W Lakeshore Dr,
+p217
+aV404 Bridge St,
+p218
+aV410 Dodge St,
+p219
+aVTbd Blue Top Cabin Rd,
+p220
+aV52143 Canal Rd Houghton, MI 49931
+p221
+aV925 Dodge St,
+p222
+aV46882 Green Acres Rd,
+p223
+aV19846 Henry St Houghton, MI 49931
+p224
+aV46956 Lahti Rd,
+p225
+aV701 Memorial Rd,
+p226
+aV111 W South Ave,
+p227
+aV18970 Canal Rd,
+p228
+aV44437 Superior Rd,
+p229
+aV1106 11th Ave,
+p230
+aV1902 Middle Pointe Ln Houghton, MI 49931
+p231
+aV2109 Country Ln,
+p232
+aV47300 Main St,
+p233
+aV1110 6th Ave,
+p234
+aVTbd & 2 Oak Ridge St LOT 1,
+p235
+aV611 W Houghton Ave,
+p236
+aV209 East St,
+p237
+aV1201 Memorial Rd,
+p238
+aV203 Portage St APT 2,
+p239
+aV51260 Blue Top Cabin Rd,
+p240
+aV52802 Red Brick Rd,
+p241
+aV205 W Baraga Ave,
+p242
+aV1500 Ravine Side Dr,
+p243
+aV206 4th St,
+p244
+aVTbd 32 & 33 Oak Ridge St Houghton, MI 49931
+p245
+aV504 6th St,
+p246
+aVTbd C Sun View Dr,
+p247
+aV1008 E Sharon Ave,
+p248
+aV506 Calverley Ave,
+p249
+aV609 W Edwards Ave,
+p250
+aV50842 Nottoli Rd,
+p251
+aV920 Dodge St APT 318,
+p252
+aV49223 Canal Rd,
+p253
+aV45998 Us Highway 41,
+p254
+aV1000 Bluff View Dr Houghton, MI 49931
+p255
+aV42712 Superior Rd,
+p256
+aV43503 Superior Rd,
+p257
+aV201 W South Ave,
+p258
+aV112 W South Ave,
+p259
+aV45968 Superior Rd,
+p260
+aV1504 Ravine Side Dr,
+p261
+aV403 E Jacker Ave,
+p262
+aV16022 Liminga Rd,
+p263
+aVGreenway Dr LOT 11-12,
+p264
+aV48037 Us Highway 41,
+p265
+aV52545 Canal Rd,
+p266
+aV814 Calverley Ave,
+p267
+aV406 4th St,
+p268
+aV50572 Rocky Shores Rd,
+p269
+aVLots 4 And 5 Pilgrim River Acres,
+p270
+aV2007 Hunters Ln,
+p271
+aV507 W Houghton Ave,
+p272
+aV1004 Agate St,
+p273
+aV2002 Country Ln,
+p274
+aV43671 Superior Rd,
+p275
+aV47016 Main St,
+p276
+aV400 W Edwards Ave,
+p277
+aV1104 10th Ave,
+p278
+aV801 Calverley Ave,
+p279
+aV409 W Baraga Ave,
+p280
+aV609 Calverley Ave,
+p281
+aV406 2nd St,
+p282
+aV1003 Spruce St,
+p283
+aV46999 Green Acres Rd,
+p284
+aV1108 11th Ave,
+p285
+aV223 Blanche St,
+p286
+aV601 W Lakeshore Dr,
+p287
+aV602 W Edwards Ave,
+p288
+aV606 4th St,
+p289
+aV51182 Blue Top Cabin Rd,
+p290
+aV724 Cedar Bluff Dr,
+p291
+aV42936 Superior Rd,
+p292
+aVPilgrim River Acres LOT 32,
+p293
+aV909 W Lakeshore Cir,
+p294
+aV1805 Robindale Dr Houghton, MI 49931
+p295
+aV44239 Superior Rd,
+p296
+aV402 Agate St,
+p297
+aV307 E Douglass Ave,
+p298
+aV221 Hubbell St,
+p299
+aV19154 Canal Rd,
+p300
+aV17260 N Superior Rd,
+p301
+aV219 Hubbell St,
+p302
+aV902 E Sharon Ave,
+p303
+aV48373 Jefferson St Houghton, MI 49931
+p304
+aV803 E South Ave,
+p305
+aVTbd 49 Pinehurst Lots 49 Huron Crk,
+p306
+aV2102 Hunters Ln,
+p307
+aV406 Dodge St,
+p308
+aV1001 Spruce St,
+p309
+aV1203 Birch St,
+p310
+aV48047 Us Highway 41,
+p311
+aV43797 Superior Rd,
+p312
+aV49935 Canal Rd Houghton, MI 49931
+p313
+aV51314 Blue Top Cabin Rd,
+p314
+aVTbd 47 & 48 Pinehurst Lots 47 & 48 Huron Crk,
+p315
+aV211 Clark St,
+p316
+aV17092 Fire Hall Rd,
+p317
+aV16554 Liminga Rd,
+p318
+aV200 Agate St,
+p319
+aV1113 12th Ave,
+p320
+aV802 W Douglass Ave,
+p321
+aVOsprey Ave Tamarack City Mi,
+p322
+aV42562 Superior Rd,
+p323
+aV307 W Baraga Ave,
+p324
+aVPilgrim River Acres LOT 44,
+p325
+aV400 W Jacker Ave,
+p326
+aV609 W Douglass Ave,
+p327
+aV46688 Us 41,
+p328
+aV47008 Sheridan Pl,
+p329
+aV306 4th St,
+p330
+aV1201 College Ave,
+p331
+aV53227 N Superior Rd,
+p332
+aV208 W Douglass Ave,
+p333
+aV309 W South Ave,
+p334
+aV209 W Edwards Ave,
+p335
+aV718 W Jacker Ave,
+p336
+aV1401 Sugar Maple Ln,
+p337
+aV21610 First St,
+p338
+aV1206 Agate St,
+p339
+aV2105 Balsam Ln Houghton, MI 49931
+p340
+aV703 Memorial Rd,
+p341
+aV2104 Country Ln,
+p342
+aV47681 Mill Rd,
+p343
+aV55 Huron St,
+p344
+aV51378 Blue Top Cabin Rd,
+p345
+aV606 Calverley Ave,
+p346
+aV501 E Lakeshore Dr APT 4,
+p347
+aV210 E Jacker Ave,
+p348
+aV305 Garnet St,
+p349
+aV50180 Canal Rd,
+p350
+aVTbd C South Ave,
+p351
+aV403 W Douglass Ave,
+p352
+aV108 W Jacker Ave,
+p353
+aV46741 Us Highway 41 UNIT 4,
+p354
+aV4000 Portage Cv Houghton, MI 49931
+p355
+aV46965 Paradise Rd,
+p356
+aV200 2nd St,
+p357
+aV1017 College Ave,
+p358
+aV19377 W Edwards Ave Houghton, MI 49931
+p359
+aV46949 Pilgrim Rd Houghton, MI 49931
+p360
+aV1219 7th Ave,
+p361
+aV710 Cedar Bluff Dr,
+p362
+aV1517 Ravine Side Dr,
+p363
+aV1015 9th Ave,
+p364
+aV21245 Lahti Rd,
+p365
+aV301 W Edwards Ave,
+p366
+aV52644 Red Brick Rd,
+p367
+aVPigrim River Acres LOT 52,
+p368
+aV1516 Brookside Dr,
+p369
+aV301 E Montezuma Ave,
+p370
+aV47216 Green Acres Rd,
+p371
+aV307 Agate St,
+p372
+aV19330 Copper Ridge Rd,
+p373
+aV1103 10th Ave,
+p374
+aV19227 Copper Ridge Rd,
+p375
+aV204 W Douglass Ave,
+p376
+aV1520 Ravine Side Dr,
+p377
+aV604 W Douglass Ave,
+p378
+aV46384 Green Acres Rd,
+p379
+aV407 W Douglass Ave,
+p380
+aV19256 Copper Ridge Rd,
+p381
+aV400 Pewabic St,
+p382
+aV601 Calverley Ave,
+p383
+aVTbd Sermon Rd # C3,
+p384
+aV19823 Henry St,
+p385
+aV49516 Gedvillas Rd,
+p386
+aVGolf Dr LOT B,
+p387
+aV14280 Heinola Rd,
+p388
+aV19835 Williams St,
+p389
+aV907 Ruby Ave,
+p390
+aV500 Franklin St,
+p391
+aV46534 Us Highway 41,
+p392
+aV1121 7th Ave,
+p393
+aV503 W Houghton Ave,
+p394
+aV47883 Huron St,
+p395
+aV21781 Peepsock Cir Houghton, MI 49931
+p396
+aV15285 Coles Creek Rd,
+p397
+aV1021 7th Ave,
+p398
+aV903 Franklin St,
+p399
+aV20057 Frederick St,
+p400
+aV605 W Edwards Ave,
+p401
+aV47821 Huron St,
+p402
+aV15824 Knuuttila Ln Houghton, MI 49931
+p403
+aV407 Bridge St,
+p404
+aV1214 E Lakeshore Dr,
+p405
+aV1508 Ravine Side Dr,
+p406
+aV7021 Sandpiper Dr,
+p407
+aV17284 Bay Shore Rd,
+p408
+aV607 W Edwards Ave,
+p409
+aV710 Oak Grove Pkwy,
+p410
+aV1410 W Waterworks Cir,
+p411
+aV22521 Britz Rd,
+p412
+aV511 W Jacker Ave,
+p413
+aV200 W Jacker Ave,
+p414
+aV1101 Agate St,
+p415
+aV47275 Green Acres Rd,
+p416
+aV1002 Agate St,
+p417
+aV706 Calverley Ave,
+p418
+aVSherwood Dr LOT 22,
+p419
+aV1104 E Houghton Ave,
+p420
+aV1207 5th Ave,
+p421
+aV900 Franklin St,
+p422
+aV47108 Green Acres Rd,
+p423
+aV404 Pewabic St,
+p424
+aV205 W Houghton Ave,
+p425
+aV1000 Bluff View Dr APT 313,
+p426
+aV51080 Blue Top Cabin Rd,
+p427
+aV1208 Birch St,
+p428
+aV905 E Houghton Ave,
+p429
+aV54485 Stanton Shores Rd,
+p430
+aV1067 Henry St,
+p431
+aV405 W Edwards Ave,
+p432
+aV21850 Peepsock Cir,
+p433
+aV1106 College Ave,
+p434
+aV21304 Lahti Rd,
+p435
+aV706 W Jacker Ave,
+p436
+aV54932 N Tear Lake Rd,
+p437
+aV309 Sibley Ave,
+p438
+aV504 W Edwards Ave,
+p439
+aV920 Dodge St APT 105,
+p440
+aV402 Portage St,
+p441
+aV707 W Douglass Ave,
+p442
+aV1284 Hickory Ln,
+p443
+aV18908 Sermon Rd,
+p444
+aV1010 E Sharon Ave,
+p445
+aV1000 Bluff View Dr APT 213,
+p446
+aV21244 Lahti Rd,
+p447
+aV20010 Haapapuro Rd,
+p448
+aV47921 Us Highway 41,
+p449
+aV208 W Jacker Ave,
+p450
+aV21746 Peepsock Cir,
+p451
+aV17463 Osma Plat Rd,
+p452
+aV506 4th St,
+p453
+aV46369 Us 41,
+p454
+aV201 Portage St,
+p455
+aVTbd & 6 Oak Ridge St LOT 5,
+p456
+aV605 2nd St,
+p457
+aV43999 Superior Rd,
+p458
+aV45186 Superior Rd,
+p459
+aV1112 6th Ave,
+p460
+aV520 W Jacker Ave,
+p461
+aV46855 Green Acres Rd,
+p462
+aV20083 Henry St,
+p463
+aV19161 Calverley St Houghton, MI 49931
+p464
+aV604 W Baraga Ave,
+p465
+aV43724 Superior Rd,
+p466
+aV401 2nd St,
+p467
+aV1404 Sugar Maple Ln,
+p468
+aV409 W South Ave,
+p469
+aV407 W South Ave,
+p470
+aV198 Agate St,
+p471
+aV1004 11th Ave,
+p472
+aVReal Estate & Homes For Sale
+p473
+aV1276 Hickory Ln,
+p474
+aV1506 Brookside Dr,
+p475
+aVTbd 34 Oak Ridge St Houghton, MI 49931
+p476
+aV603 W South Ave,
+p477
+aV510 W Edwards Ave,
+p478
+aV2006 Hunters Ln,
+p479
+aV47141 Green Acres Rd,
+p480
+aV46570 Us Highway 41,
+p481
+aV47789 Manitou St Houghton, MI 49931
+p482
+aV1201 5th Ave,
+p483
+aV210 E Jacker Ave,
+p484
+aV805 W Edwards Ave,
+p485
+aV902 E Sharon Ave,
+p486
+aV605 Sibley Ave,
+p487
+aV47897 Huron St,
+p488
+aV47690 Meadow St Houghton, MI 49931
+p489
+aV605 W Edwards Ave,
+p490
+aV1002 Country Ct,
+p491
+aV308 W Jacker Ave,
+p492
+aV601 Sibley Ave,
+p493
+aV704 Calverley Ave,
+p494
+aV1509 Ravine Side Dr,
+p495
+aV800 E Lakeshore Dr,
+p496
+aV1018 9th Ave,
+p497
+aV16911 Fire Hall Rd,
+p498
+aV405 Quincy St,
+p499
+aV1108 6th Ave,
+p500
+aV1526 Brookside Dr,
+p501
+aV1013 6th Ave,
+p502
+aV408 W Douglass Ave,
+p503
+aV807 W South Ave,
+p504
+aV106 W South Ave,
+p505
+aV1519 Brookside Dr,
+p506
+aV405 W Edwards Ave,
+p507
+aV806 Oak Grove Pkwy,
+p508
+aV106 W Douglass Ave,
+p509
+aVGolf Dr LOT 15-16,
+p510
+aV20004 Haapapuro Rd,
+p511
+aVLots On Pilgrim River Acres,
+p512
+aV1104 Datolite St,
+p513
+aV1007 Spruce St,
+p514
+aV1261 Hickory Ln,
+p515
+aV1511 Brookside Dr,
+p516
+aV19339 Copper Ridge Rd,
+p517
+aV406 Emerald St,
+p518
+aV47553 Us Highway 41,
+p519
+aV507 W Edwards Ave,
+p520
+aV2006 Spruce Ln,
+p521
+aV212 Clark St,
+p522
+aV47616 Mill Rd,
+p523
+aVPilgrim River Acres LOT 13,
+p524
+aV19426 Copper Ridge Rd,
+p525
+aV606 E Houghton Ave,
+p526
+aV43784 Superior Rd,
+p527
+aV47470 M26 Houghton, MI 49931
+p528
+aV49935 Canal Rd Houghton, MI 49931
+p529
+aV20062 Henry St,
+p530
+aV1505 Ravine Side Dr,
+p531
+aV502 W South Ave,
+p532
+aV44450 Old 41 Rd,
+p533
+aV106 7th Ave,
+p534
+aV2004 Spruce Ln,
+p535
+aV1503 Brookside Dr,
+p536
+aVGolf Dr LOT D,
+p537
+aV1527 Ravine Side Dr,
+p538
+aV107 W Edwards Ave,
+p539
+aV204 E Houghton Ave,
+p540
+aV205 W South Ave,
+p541
+aV420 W Jacker Ave,
+p542
+aV2003 Hunters Ln,
+p543
+aV109 W South Ave,
+p544
+aV16278 Liminga Rd,
+p545
+aV1102 6th Ave,
+p546
+aV2103 Country Ln,
+p547
+aV1009 E Houghton Ave,
+p548
+aV506 Shelden Ave Houghton, MI 49931
+p549
+aV403 Agate St,
+p550
+aV915 7th Ave APT 7,
+p551
+aV501 W South Ave Houghton, MI 49931
+p552
+aV209 E Douglass Ave,
+p553
+aV16275 Liminga Rd,
+p554
+aVGolf Dr LOT 17-18,
+p555
+aVTbd (38) Country Ln,
+p556
+aV47479 Us Highway 41,
+p557
+aV1212 5th Ave,
+p558
+aV907 W Lakeshore Cir,
+p559
+aV1000 7th Ave,
+p560
+aV43472 Superior Rd,
+p561
+aV403 Vivian St,
+p562
+aV607 W South Ave,
+p563
+aV710 W Edwards Ave,
+p564
+aV2002 Hunters Ln,
+p565
+aV402 W South Ave,
+p566
+aV17052 Fire Hall Rd,
+p567
+aV507 Dodge St,
+p568
+aV2007 Spruce Ln,
+p569
+aV601 6th St,
+p570
+aV47716 Mill Rd,
+p571
+aV42998 Superior Rd,
+p572
+aV53794 Bay Shore Farm Rd,
+p573
+aVPilgrim River Acres LOT 18,
+p574
+aV17236 N Superior Rd,
+p575
+aV105 W Houghton Ave,
+p576
+aV816 E Sharon Ave,
+p577
+aV50766 Nottoli Rd,
+p578
+aV47057 Green Acres Rd,
+p579
+aV1213 E Houghton Ave,
+p580
+aVTbd Sixth Ave Lots 20 21 22 Block # 26,
+p581
+aV705 W Baraga Ave,
+p582
+aV1115 11th Ave,
+p583
+aV208 E Montezuma Ave UNIT 3,
+p584
+aV307 E South Ave,
+p585
+aVLots 39 And 40 Pilgrim River Acres,
+p586
+aV815 7th Ave,
+p587
+aV320 Franklin St,
+p588
+aV401 Garnet St,
+p589
+aV405 Huron St,
+p590
+aV1015 E Houghton Ave,
+p591
+aV1004 5th Ave,
+p592
+aV42625 Superior Rd,
+p593
+aV14998 N Superior Rd,
+p594
+aV17153 Fire Hall Rd,
+p595
+aV16623 Liminga Rd,
+p596
+aV1007 Memorial Rd,
+p597
+aV709 Cedar Bluff Dr,
+p598
+aV15850 N Superior Rd,
+p599
+aV47671 Pine Cir,
+p600
+aV706 W Jacker Ave,
+p601
+aV801 Oak Grove Pkwy,
+p602
+aV43097 Superior Rd,
+p603
+aV19081 Boundary Rd Houghton, MI 49931
+p604
+aV1274 Hickory Ln,
+p605
+aV501 Sibley Ave,
+p606
+aV303 W Douglass Ave,
+p607
+aV17235 N Superior Rd,
+p608
+aV904 Franklin St,
+p609
+aV47790 Mill Rd,
+p610
+aV916 College Ave,
+p611
+aV46466 Fairway View Dr,
+p612
+aV714 Cedar Bluff Dr,
+p613
+aV303 Franklin St,
+p614
+aV115 Calverley Ave,
+p615
+aV19371 Copper Ridge Rd,
+p616
+aV313 E Montezuma Ave,
+p617
+aV50384 Rocky Shores Rd,
+p618
+aV46891 Green Acres Rd,
+p619
+aV209 Calverley Ave,
+p620
+aV43591 Superior Rd,
+p621
+aV20121 Pilgrim Rd,
+p622
+aV603 W Baraga Ave,
+p623
+aV817 Calverley Ave,
+p624
+aV1512 Brookside Dr,
+p625
+aV46440 Green Acres Rd,
+p626
+aV49935 Canal Rd Houghton, MI 49931
+p627
+aVON Liminga Rd,
+p628
+aV1273 Hickory Ln,
+p629
+aV1272 Hickory Ln,
+p630
+aV46768 Us Highway 41,
+p631
+aV804 Donmar Dr,
+p632
+aV1906 Robindale Dr Houghton, MI 49931
+p633
+aV109 Shelden Ave,
+p634
+aV616 Garnet St,
+p635
+aV16158 N Superior Rd,
+p636
+aV215 Clark St,
+p637
+aV1201 8th Ave,
+p638
+aV46784 Green Acres Rd,
+p639
+aVGreenway Dr LOT 9-10,
+p640
+aV1400 Townsend Dr,
+p641
+aV46109 Us Highway 41,
+p642
+aV307 2nd St,
+p643
+aV1221 E Houghton Ave,
+p644
+aV16950 Oskar Bay Rd,
+p645
+aV555 Sibley Ave,
+p646
+aV100 Bluff View Dr Apt 137,
+p647
+aV1405 Sugar Maple Ln,
+p648
+aV1300 W Sharon Ave,
+p649
+aV406 W South Ave,
+p650
+aVTbd C South Ave Houghton, MI 49931
+p651
+aV404 Sibley Ave,
+p652
+aV950 7th Ave,
+p653
+aV21110 Lahti Rd,
+p654
+aV204 Dodge St,
+p655
+aV2005 Spruce Ln,
+p656
+aVPilgrim River Acres LOT 53,
+p657
+aV1204 Diamond Ave,
+p658
+aV19239 Canal Rd,
+p659
+aV51274 Blue Top Cabin Rd,
+p660
+aV801 Donmar Dr,
+p661
+aV206 Clark St,
+p662
+aV109 Frue Ave,
+p663
+aV47212 Main St Houghton, MI 49931
+p664
+aV16187 Liminga Rd,
+p665
+aV209 Clark St,
+p666
+aV808 7th Ave,
+p667
+aV47425 Us Highway 41,
+p668
+aV17995 Painesdale Rd,
+p669
+aV43472 Superior Rd,
+p670
+aV301 W Baraga Ave,
+p671
+aV2101 Sherwood Dr,
+p672
+aV47470 State Highway M26,
+p673
+aV100 E Sharon Ave,
+p674
+aVNext To 44107 Us # 41,
+p675
+aV19290 Copper Ridge Rd,
+p676
+aV500 Quincy St,
+p677
+aV101 W Houghton Ave Houghton, MI 49931
+p678
+aV803 W Edwards Ave,
+p679
+aV47970 Farragut St,
+p680
+aV102 E Douglass Ave,
+p681
+aV611 W Houghton Ave,
+p682
+aV1201 7th Ave,
+p683
+aV1281 Hickory Ln,
+p684
+aV4002 Portage Cv,
+p685
+aV19161 Calverley St Houghton, MI 49931
+p686
+aV47884 Huron St,
+p687
+aV15741 N Superior Rd,
+p688
+aV1406 Sugar Maple Ln,
+p689
+aV1008 6th Ave,
+p690
+aV202 E Douglass Ave,
+p691
+aV106 E Houghton Ave Houghton, MI 49931
+p692
+aV804 Franklin St,
+p693
+aV510 W Douglass Ave,
+p694
+aV616 Garnet St,
+p695
+aV703 W Lakeshore Dr,
+p696
+aV908 Jasper Ave,
+p697
+aV42727 Superior Rd,
+p698
+aV1516 Ravine Side Dr,
+p699
+aVLahti Rd,
+p700
+aV850 W Sharon Ave STE 8,
+p701
+aV403 Calverley Ave,
+p702
+aVGolf Dr LOT 21,
+p703
+aV1403 E Houghton Ave,
+p704
+aV1003 6th Ave,
+p705
+aV49935 Canal Rd Houghton, MI 49931
+p706
+aV5004 Portage Cv,
+p707
+aV110 W Jacker Ave,
+p708
+aV21961 Peepsock Rd Houghton, MI 49931
+p709
+aV1502 Sugar Maple Ln Houghton, MI 49931
+p710
+aV1916 Country Ln,
+p711
+aV19890 Frederick St,
+p712
+aV806 Oak Grove Pkwy,
+p713
+aV45999 Superior Rd,
+p714
+aV16649 Liminga Rd,
+p715
+aV402 6th St,
+p716
+aV711 W Edwards Ave,
+p717
+aV402 W Edwards Ave,
+p718
+aVParcel 3 Main St,
+p719
+aV47596 2nd St,
+p720
+aV43861 Superior Rd,
+p721
+aV506 Agate St,
+p722
+aV1004 E Houghton Ave,
+p723
+aV47470 Mill Rd,
+p724
+aV402 Vivian St,
+p725
+aV5000 Portage Cv,
+p726
+aV400 Garnet St,
+p727
+aV46870 Us Highway 41,
+p728
+aV49935 Canal Rd Houghton, MI 49931
+p729
+aV601 7th Ave,
+p730
+aV1021 9th Ave,
+p731
+aV701 W Baraga Ave,
+p732
+aV1000 Bluff View Dr APT 119,
+p733
+aV501 Memorial Rd,
+p734
+aV19963 Haapapuro Rd,
+p735
+aV52954 Red Brick Rd,
+p736
+aV1111 10th Ave,
+p737
+aV16608 Liminga Rd,
+p738
+aVTbd D Sun View Dr,
+p739
+aV305 6th St,
+p740
+aV22059 Royalwood Rd,
+p741
+aV115 W Douglass Ave,
+p742
+aV703 W Douglass Ave,
+p743
+aVGreenway Dr LOT 7,
+p744
+aV1217 E 7th Ave,
+p745
+aV47892 Farragut St,
+p746
+aV2000 Hunters Ln,
+p747
+aVPilgrim River Acres LOT 51,
+p748
+aV904 Portage St,
+p749
+aV1103 11th Ave,
+p750
+aV52738 Red Brick Rd,
+p751
+aV1909 Robindale Dr Houghton, MI 49931
+p752
+aV1010 College Ave,
+p753
+aV2105 Hunters Ln,
+p754
+aV710 Calverley Ave,
+p755
+aV700 Military Rd,
+p756
+aV20033 Frederick St,
+p757
+aV722 Cedar Bluff Dr,
+p758
+aV51322 Blue Top Cabin Rd,
+p759
+aV1525 Brookside Dr,
+p760
+aVPilgrim River Acres LOT 17,
+p761
+aV402 Pewabic St,
+p762
+aV2004 Hunters Ln,
+p763
+aV307 W Edwards Ave,
+p764
+aV203 W Edwards Ave,
+p765
+aV506 W Jacker Ave,
+p766
+aV719 W Baraga Ave,
+p767
+aV1020 9th Ave,
+p768
+aV303 7th Ave,
+p769
+aV47238 Main St,
+p770
+aV48149 Us Highway 41,
+p771
+aVGreenway Dr LOT 5-6,
+p772
+aVReal Estate & Homes For Sale
+p773
+aV46937 Paradise Rd,
+p774
+aVGreenway Dr LOT 3-4,
+p775
+aV400 Calverley Ave,
+p776
+aV47082 Green Acres Rd,
+p777
+aV19226 Copper Ridge Rd,
+p778
+aV21264 Lahti Rd,
+p779
+aV50450 Canal Rd,
+p780
+aV19220 Calverley St,
+p781
+aV1016 9th Ave,
+p782
+aV16622 N Superior Rd,
+p783
+aV7027 Sandpiper Dr,
+p784
+aV921 Dodge St,
+p785
+aV311 W Edwards Ave,
+p786
+aV1009 9th Ave,
+p787
+aV204 4th St,
+p788
+aV1902 Spruce Ln,
+p789
+aV501 Dodge St,
+p790
+aV1112 7th Ave,
+p791
+aV304 Garnet St,
+p792
+aVTbd 7 Oak Ridge St Houghton, MI 49931
+p793
+aV54172 Red Barn Rd,
+p794
+aV21677 Peepsock Cir,
+p795
+aV101 E Montezuma Ave,
+p796
+aV710 W South Ave,
+p797
+aV49935 Canal Rd Houghton, MI 49931
+p798
+aV110 W Houghton Ave,
+p799
+aV2005 Sherwood Dr,
+p800
+aV603 7th Ave,
+p801
+aV300 Isle Royale St,
+p802
+aVPilgrim River Acres LOT 12,
+p803
+aV1909 Woodmar Dr APT B,
+p804
+aV607 4th St Houghton, MI 49931
+p805
+aV48284 Larson Rd,
+p806
+aV509 W South Ave,
+p807
+aV513 W Edwards Ave,
+p808
+aVPilgrim River Acres LOT 28,
+p809
+aV1103 College Ave,
+p810
+aVTbd & 46 Pinehurst LOT 45,
+p811
+aV47756 Main St,
+p812
+aV1920 Country Ln,
+p813
+aV46741 Us Highway 41 UNIT 2,
+p814
+aV401 W Houghton Ave,
+p815
+aV306 Bridge St,
+p816
+aV43251 Superior Rd,
+p817
+aV1213 5th Ave,
+p818
+aV46688 Us Highway 41,
+p819
+aV603 E Houghton Ave,
+p820
+aV304 W Houghton Ave,
+p821
+aV1005 6th Ave,
+p822
+aV1115 College Ave,
+p823
+aVTbd D South Ave,
+p824
+aV20106 Horatio St,
+p825
+aV20079 Frederick St,
+p826
+aVTbd W Sharon Ave,
+p827
+aV810 W Douglass Ave,
+p828
+aV1913 Robindale Dr,
+p829
+aV504 W Douglass Ave,
+p830
+aV1410 Sugar Maple Ln,
+p831
+aV51228 Blue Top Cabin Rd,
+p832
+aV605 W Houghton Ave,
+p833
+aV610 Copper St,
+p834
+aV20089 Frederick St,
+p835
+aV702 Calverley Ave,
+p836
+aVGolf Dr LOT 19-20,
+p837
+aV406 4th St,
+p838
+aV16183 Liminga Rd,
+p839
+aV1017 5th Ave,
+p840
+aV1115 Jasper Ave,
+p841
+aV45304 Superior Rd,
+p842
+aV1105 College Ave,
+p843
+aV605 W Baraga Ave,
+p844
+aV1003 Birch St,
+p845
+aV209 W Houghton Ave,
+p846
+aV408 Portage St,
+p847
+aV1011 7th Ave,
+p848
+aV47470 Gundlach Rd,
+p849
+aV19466 Haapapuro Rd,
+p850
+aV47886 Mcclellan St Houghton, MI 49931
+p851
+aV405 W Douglass Ave,
+p852
+aV16690 N Superior Rd,
+p853
+aV105 E Houghton Ave,
+p854
+aV53671 Canal Rd Houghton, MI 49931
+p855
+aV22226 Royalwood Rd Houghton, MI 49931
+p856
+aV47491 Mill Rd,
+p857
+aV201 W Houghton Ave,
+p858
+aV7028 Sandpiper Dr,
+p859
+aV307 7th Ave,
+p860
+aV46880 Lahti Rd,
+p861
+aV45684 Superior Rd,
+p862
+aV605 E Houghton Ave,
+p863
+aV413 W Lakeshore Dr,
+p864
+aV209 W Douglass Ave,
+p865
+aV705 2nd St,
+p866
+aV1205 E Houghton Ave,
+p867
+aV601 W Baraga Ave,
+p868
+aVPilgrim River Acres LOT 14,
+p869
+aV1115 7th Ave,
+p870
+aV207 Pewabic St,
+p871
+aV17819 Bay Shore Rd,
+p872
+aV901 W Lakeshore Cir,
+p873
+aVLots 46 And 47 Pilgrim River Acres,
+p874
+aV2006 Woodmar Dr APT C,
+p875
+aV717 Cedar Bluff Dr,
+p876
+aV16150 N Superior Rd,
+p877
+aV310 W Douglass Ave,
+p878
+aV46836 Paradise Rd,
+p879
+aV1105 12th Ave,
+p880
+aV1010 6th Ave,
+p881
+aV20040 Frederick St,
+p882
+aV17995 Chassell Painesdale Rd,
+p883
+aV1208 E Lakeshore Dr,
+p884
+aVGolf Dr LOT C,
+p885
+aV47975 Us Highway 41,
+p886
+aV7029 Sandpiper Dr,
+p887
+aV46950 Sheridan Pl,
+p888
+aV1615O N Superior Rd,
+p889
+aV803 E South Ave,
+p890
+aV404 E Douglass Ave,
+p891
+aV200 Portage St,
+p892
+aV500 Garnet St,
+p893
+aV108 W Douglass Ave,
+p894
+aVPilgrim River Acres LOT 45,
+p895
+aV1006 E Sharon Ave,
+p896
+aV22226 Royalwood Rd,
+p897
+aV927 Dodge St,
+p898
+aV44795 Us Highway 41,
+p899
+aV19376 Copper Ridge Rd,
+p900
+aV1102 7th Ave,
+p901
+aV1006 9th Ave,
+p902
+aV505 W Baraga Ave,
+p903
+aV1502 Brookside Dr,
+p904
+aV1123 6th Ave,
+p905
+aV49750 Canal Rd,
+p906
+aV1021 9th Ave,
+p907
+aV305 W Douglass Ave,
+p908
+aV913 Donmar Dr,
+p909
+aV303 W Montezuma Ave,
+p910
+aV1518 Brookside Dr,
+p911
+aV16920 Osma Plat Rd,
+p912
+aV48496 Lincoln St,
+p913
+aV505 W Houghton Ave,
+p914
+aV47584 2nd St,
+p915
+aV607 Calverley Ave,
+p916
+aV107 W South Ave,
+p917
+aV204 Agate St,
+p918
+aV45379 Superior Rd,
+p919
+aV501 W Baraga Ave,
+p920
+aV505 Calverley Ave,
+p921
+aV407 W Baraga Ave,
+p922
+aV1109 12th Ave,
+p923
+aV46581 Us Hwy 41,
+p924
+aV307 Agate St,
+p925
+aV714 W Jacker Ave,
+p926
+aV1802 Middle Pointe Ln Houghton, MI 49931
+p927
+aV46951 Green Acres Rd,
+p928
+aV314 E Lakeshore Dr,
+p929
+aV17959 Chassell Painesdale Rd,
+p930
+aV47295 Green Acres Rd,
+p931
+aV726 Cedar Bluff Dr,
+p932
+aV806 E Houghton Ave Houghton, MI 49931
+p933
+aV1210 Diamond Ave,
+p934
+aV1310 E Houghton Ave,
+p935
+aV702 W South Ave,
+p936
+aV1112 E 7th Ave,
+p937
+aV208 Prospect St,
+p938
+aVGolf Dr LOT E,
+p939
+aVTbd Edwards Ave,
+p940
+aV111 W Edwards Ave,
+p941
+aV712 Cedar Bluff Dr,
+p942
+aV50464 Rocky Shores Rd,
+p943
+aV107 E South Ave,
+p944
+aV311 W Douglass Ave,
+p945
+aV2100 Spruce Ln,
+p946
+aV43417 Superior Rd,
+p947
+aV1117 6th Ave,
+p948
+aV509 W Baraga Ave,
+p949
+aVReal Estate & Homes For Sale
+p950
+aV303 E South Ave,
+p951
+aV44470 Superior Rd,
+p952
+aV46906 Green Acres Rd,
+p953
+aV52674 Red Brick Rd,
+p954
+aV214 Hubbell St,
+p955
+aV805 W Edwards Ave,
+p956
+aV115 W Edwards Ave,
+p957
+aV2103 Hunters Ln,
+p958
+aV509 W Edwards Ave,
+p959
+aV608 W Douglass Ave,
+p960
+aV1019 9th Ave,
+p961
+aV1101 11th Ave,
+p962
+aV2104 Spruce Ln,
+p963
+aV107 W Baraga Ave,
+p964
+aV47590 Waylene St,
+p965
+aV1512 Ravine Side Dr,
+p966
+aV47004 Green Acres Rd,
+p967
+aVTbd & 33 Oak Ridge St LOT 32,
+p968
+aV46844 Us Highway 41,
+p969
+aV1210 5th Ave,
+p970
+aV201 E Douglass Ave Houghton, MI 49931
+p971
+aV201 Portage St,
+p972
+aV47947 Manitou St Houghton, MI 49931
+p973
+aV47008 Sheridan Pl Houghton, MI 49931
+p974
+aV17533 Osma Plat Rd,
+p975
+aV42644 Superior Rd,
+p976
+aV46590 Us Highway 41,
+p977
+aV1009 E Houghton Ave,
+p978
+aV701 7th Ave,
+p979
+aVTbd & 48 Pinehurst LOT 47,
+p980
+aV51386 Blue Top Cabin Rd,
+p981
+aV304 W Edwards Ave,
+p982
+aV811 W Douglass Ave,
+p983
+aV507 Calverley Ave,
+p984
+aV609 Sibley Ave,
+p985
+aV51124 Blue Top Cabin Rd,
+p986
+aV1000 Bluff View Dr APT 106,
+p987
+aV405 Huron St,
+p988
+aV1106 10th Ave,
+p989
+aV308 E Baraga Ave,
+p990
+aV210 Clark St,
+p991
+aV1209 8th Ave,
+p992
+aV2103 Country Ln,
+p993
+aV19904 James St,
+p994
+aV1207 Birch St,
+p995
+aV1501 Townsend Dr,
+p996
+aV200 W Baraga Ave,
+p997
+aV46802 Us Highway 41,
+p998
+aV920 Dodge St APT 320,
+p999
+aV1102 11th Ave,
+p1000
+aV2101 Country Ln,
+p1001
+aV46976 Sheridan Pl,
+p1002
+aV1216 E Lakeshore Dr,
+p1003
+aV203 E Baraga Ave,
+p1004
+aV306 1st St,
+p1005
+aV44162 Superior Rd,
+p1006
+aV1013 E Houghton Ave,
+p1007
+aV702 W Douglass Ave,
+p1008
+aV47156 Green Acres Rd,
+p1009
+aV1507 Brookside Dr,
+p1010
+aV404 E Houghton Ave,
+p1011
+aV912 6th Ave,
+p1012
+aV16429 N Superior Rd,
+p1013
+aV1214 5th Ave,
+p1014
+aV606 E Houghton Ave,
+p1015
+aV222 Hubbell St,
+p1016
+aV401 W Douglass Ave,
+p1017
+aV52950 Red Brick Rd,
+p1018
+aV101 Bridge St,
+p1019
+aV400 E Baraga Ave,
+p1020
+aV300 W Jacker Ave,
+p1021
+aV5005 Portage Cv,
+p1022
+aV1000 Bluff View Dr APT 208,
+p1023
+aV47615 Us Highway 41,
+p1024
+aV46722 Paradise Rd,
+p1025
+aV501 E Houghton Ave,
+p1026
+aV1107 Ridge Rd STE 1,
+p1027
+aVLots 1-2-3 Pilgrim River Acres,
+p1028
+aV15411 N Superior Rd,
+p1029
+aV913 6th Ave,
+p1030
+aVReal Estate & Homes For Sale
+p1031
+aV1105 8th Ave,
+p1032
+aV406 Huron St,
+p1033
+aV47966 Main St,
+p1034
+aV106 Calverley Ave,
+p1035
+aV46719 Green Acres Rd,
+p1036
+aV46590 Us Highway 41,
+p1037
+aVPart Of LOT 22,
+p1038
+aVLots 24 And 25 Pilgrim River Acres,
+p1039
+aV45396 Cottage Row,
+p1040
+aV901 Agate St,
+p1041
+aV404 Emerald St,
+p1042
+aV704 4th St,
+p1043
+aV2005 Hunters Ln,
+p1044
+aV407 6th St,
+p1045
+aV17716 Chassell Painesdale Rd,
+p1046
+aV305 2nd St,
+p1047
+aV19951 Horatio St Houghton, MI 49931
+p1048
+aVReal Estate & Homes For Sale
+p1049
+aV101 E South Ave,
+p1050
+aV711 Calverley Ave,
+p1051
+aV103 W Douglass Ave,
+p1052
+aV16578 Liminga Rd,
+p1053
+aV800 W Edwards Ave,
+p1054
+aV2105 Spruce Ln,
+p1055
+aV18834 Canal Rd,
+p1056
+aV308 W Edwards Ave,
+p1057
+aV19344 W Edwards Ave,
+p1058
+aV1217 7th Ave,
+p1059
+aV47965 Huron St,
+p1060
+aVTbd 31 Oak Ridge St Houghton, MI 49931
+p1061
+aV506 W Baraga Ave,
+p1062
+aVReal Estate & Homes For Sale
+p1063
+aV804 Oak Grove Pkwy,
+p1064
+aV1019 E Houghton Ave,
+p1065
+aVTbd I Sun View Dr,
+p1066
+aV46409 Green Acres Rd,
+p1067
+aV1532 Ravine Side Dr,
+p1068
+aV302 Calverley Ave,
+p1069
+aV404 Frue Ave,
+p1070
+aV510 W Baraga Ave,
+p1071
+aV17409 Osma Plat Rd,
+p1072
+aV47901 Us Highway 41,
+p1073
+aV100 E Sharon Ave,
+p1074
+aV303 W South Ave,
+p1075
+aV110 W South Ave,
+p1076
+aV505 4th St,
+p1077
+aV109 E South Ave,
+p1078
+aV512 W Edwards Ave,
+p1079
+aV0 Spring Hillsdale, MI 49242
+p1080
+aV21389 Lahti Rd,
+p1081
+aV214 Clark St,
+p1082
+aV46104 Us Highway 41,
+p1083
+aV18935 Sermon Rd,
+p1084
+aV209 Clark St,
+p1085
+aV47660 Pine Cir Houghton, MI 49931
+p1086
+aVPilgrim River Acres LOT 16,
+p1087
+aV709 W Douglass Ave,
+p1088
+aV22691 Britz Rd,
+p1089
+aV1206 E Lakeshore Dr,
+p1090
+aV47921 Us 41,
+p1091
+aV19411 Copper Ridge Rd,
+p1092
+aV17779 Bay Shore Rd,
+p1093
+aV47926 Main St Houghton, MI 49931
+p1094
+aV609 W Lakeshore Dr,
+p1095
+aV818 E Sharon Ave Houghton, MI 49931
+p1096
+aV16499 Liminga Rd,
+p1097
+aV612 Copper St,
+p1098
+aV19161 Calverley St Houghton, MI 49931
+p1099
+aV911 Donmar Dr,
+p1100
+aV307 E Baraga Ave,
+p1101
+aV201 W Douglass Ave,
+p1102
+aV104 W Douglass Ave,
+p1103
+aV807 W Edwards Ave,
+p1104
+aV407 W Houghton Ave,
+p1105
+aV205 W Douglass Ave,
+p1106
+aVTbd 24 Razorback Dr,
+p1107
+aV1125 6th Ave,
+p1108
+aV15564 Knuuttila Ln,
+p1109
+aV22615 Fox Farm Rd,
+p1110
+aV404 E Douglass Ave,
+p1111
+aV1924 Sherwood Dr Houghton, MI 49931
+p1112
+aV1004 9th Ave,
+p1113
+aV46217 Superior Rd,
+p1114
+aV43189 Superior Rd,
+p1115
+aV5014 Portage Cv,
+p1116
+aV304 W Douglass Ave,
+p1117
+aV1010 Madeleine St,
+p1118
+aVTbd Sermon Rd # C4,
+p1119
+aV508 W Edwards Ave,
+p1120
+aV406 E Douglass Ave,
+p1121
+aV600 W Edwards Ave,
+p1122
+aVTbd 42 & 37 Apple Blossom Ct Houghton, MI 49931
+p1123
+aV1207 Ruby Ave,
+p1124
+aV47331 Us Highway 41,
+p1125
+aV49935 Canal Rd Houghton, MI 49931
+p1126
+aV51340 Blue Top Cabin Rd,
+p1127
+aV47879 Mcclellan St,
+p1128
+aVPilgrim River Acres LOT 42,
+p1129
+aV310 E Jacker Ave,
+p1130
+aV204 W Jacker Ave,
+p1131
+aV504 6th St,
+p1132
+aV1110 10th Ave,
+p1133
+aV401 Calverley Ave,
+p1134
+aV50690 Canal Rd,
+p1135
+aV815 Calverley Ave,
+p1136
+aV46751 Paradise Rd,
+p1137
+aV114 Frue Ave,
+p1138
+aV407 Calverley Ave,
+p1139
+aV110 W Douglass Ave,
+p1140
+aV307 E South Ave,
+p1141
+aV800 W South Ave,
+p1142
+aV101 W Douglass Ave,
+p1143
+aVTbd Evergreen Dr,
+p1144
+aV19402 Copper Ridge Rd,
+p1145
+aV2107 Hunters Ln,
+p1146
+aV1000 10th Ave,
+p1147
+aV0 Gundlach Rd,
+p1148
+aV1203 5th Ave,
+p1149
+aV16879 Cedar Cove Dr,
+p1150
+aV505 W South Ave,
+p1151
+aV21830 Peepsock Cir,
+p1152
+aV20441 Pilgrim Rd,
+p1153
+aV20107 Frederick St,
+p1154
+aV1115 12th Ave,
+p1155
+aV105 E Montezuma Ave,
+p1156
+aV305 W Baraga Ave,
+p1157
+aV1010 7th Ave,
+p1158
+aV7016 Sandpiper Dr,
+p1159
+aV817 W Edwards Ave,
+p1160
+aV2103 Hunters Ln,
+p1161
+aV404 W Douglass Ave,
+p1162
+aV203 Agate St,
+p1163
+aV603 Agate St,
+p1164
+aV16537 Liminga Rd,
+p1165
+aV16589 Liminga Rd,
+p1166
+aV19450 Copper Ridge Rd,
+p1167
+aV500 Franklin St,
+p1168
+aV503 Spring House Ln,
+p1169
+aV48447 Park Ave,
+p1170
+aV4002 Portage Cv,
+p1171
+aV22040 Royalwood Rd,
+p1172
+aV1902 Middle Pointe Ln,
+p1173
+aV2033 Fredrick Street,
+p1174
+aV1004 Baltic St,
+p1175
+aV20043 James St Houghton, MI 49931
+p1176
+aVLots 19 And 20 Pilgrim River Acres,
+p1177
+aV110 W South Ave,
+p1178
+aV33590 Bear Creek Rd,
+p1179
+aV1523 Ravine Side Dr,
+p1180
+aV1204 Birch St,
+p1181
+aV17439 Osma Plat Rd Houghton, MI 49931
+p1182
+aV2004 Spruce Ln,
+p1183
+aV108 W Jacker Ave,
+p1184
+aV1010 E 7th Ave,
+p1185
+aV44973 Superior Rd,
+p1186
+aV517 Shelden Ave APT 410,
+p1187
+aV401 E Sharon Ave,
+p1188
+aV17617 Osma Plat Rd Houghton, MI 49931
+p1189
+aV54728 Canal Rd,
+p1190
+aV102 Frue Ave,
+p1191
+aV1514 Brookside Dr,
+p1192
+aVTbd & 40 Apple Blossom Ct LOT 39,
+p1193
+aV303 Agate St,
+p1194
+aV721 W Jacker Ave,
+p1195
+aV607 Copper St,
+p1196
+aV803 Oak Grove Pkwy,
+p1197
+aV405 Bridge St,
+p1198
+aV1109 11th Ave,
+p1199
+aV112 W Douglass Ave,
+p1200
+aV1514 Ravine Side Dr,
+p1201
+aVTbd 24 Portage Cv,
+p1202
+aV502 Agate St,
+p1203
+aV47028 Green Acres Rd,
+p1204
+aV16980 Oskar Bay Rd,
+p1205
+aV608 7th Ave,
+p1206
+aV46702 Hwy M-26,
+p1207
+aV606 4th St,
+p1208
+aV500 Portage St,
+p1209
+aV2104 Balsam Ln Houghton, MI 49931
+p1210
+aV1505 Brookside Dr,
+p1211
+aV15537 N Superior Rd,
+p1212
+aV501 W Edwards Ave,
+p1213
+aV17761 Bay Shore Rd,
+p1214
+aV47938 Huron St,
+p1215
+aV1216 7th Ave,
+p1216
+aV22083 Royalwood Rd,
+p1217
+aV2100 Hunters Ln,
+p1218
+aV18820 Sermon Rd,
+p1219
+aV1210 E Lakeshore Dr,
+p1220
+aV0 Spring Hillsdale, MI 49242
+p1221
+aV1511 Ravine Side Dr,
+p1222
+aV305 Calverley Ave,
+p1223
+aV506 Dodge St,
+p1224
+aV46706 Us Highway 41,
+p1225
+aV1000 Bluff View Dr APT 211,
+p1226
+aV52926 Red Brick Rd,
+p1227
+aV16089 N Superior Rd,
+p1228
+aV47943 Huron St,
+p1229
+aV104 W South Ave,
+p1230
+aV18886 Canal Rd,
+p1231
+aV808 E 7th Ave,
+p1232
+aV400 Emerald St,
+p1233
+aV17007 Chassell Painesdale Rd,
+p1234
+aV47886 Mcclellan St Houghton, MI 49931
+p1235
+aVPilgrim River Acres LOT 31,
+p1236
+aV209 W Baraga Ave,
+p1237
+aV2003 Spruce Ln,
+p1238
+aV46890 Us Highway 41,
+p1239
+aV17625 Osma Plat Rd,
+p1240
+aV21145 Rivendell Trl Houghton, MI 49931
+p1241
+aV53250 Red Brick Rd,
+p1242
+aV711 W Douglass Ave,
+p1243
+aV301 W Houghton Ave,
+p1244
+aV21504 Lahti Rd,
+p1245
+aV2001 Hunters Ln,
+p1246
+aV805 Oak Grove Pkwy,
+p1247
+aV604 7th Ave,
+p1248
+aV1104 Datolite St APT E,
+p1249
+aV20007 Haapapuro Rd,
+p1250
+aV920 Dodge St APT 518,
+p1251
+aV407 W South Ave,
+p1252
+aV704 Calverley Ave,
+p1253
+aVPilgrim River Acres LOT 41,
+p1254
+aV901 E Sharon Ave,
+p1255
+aV502 W Edwards Ave,
+p1256
+aVTbd White Pine Ln,
+p1257
+aV51202 Blue Top Cabin Rd,
+p1258
+aV305 Emerald St,
+p1259
+aV15132 E Heinola Rd,
+p1260
+aV46904 Green Acres Rd,
+p1261
+aV301 W South Ave,
+p1262
+aVTbd 14 Razorback Dr,
+p1263
+aV503 Spring House Ln,
+p1264
+aV1113 8th Ave,
+p1265
+aV46581 Us 41,
+p1266
+aV210 Blanche St,
+p1267
+aV210 Hubbell St,
+p1268
+aV1014 9th Ave,
+p1269
+aV1011 Jasper Ave,
+p1270
+aV1804 Middle Pointe Ln,
+p1271
+aV1109 Quincy Cove Rd,
+p1272
+aV47054 Us Highway 41,
+p1273
+aV807 E Montezuma Ave,
+p1274
+aV400 Sibley Ave,
+p1275
+aV1003 10th Ave,
+p1276
+aV19730 Haapapuro Rd,
+p1277
+aV1513 Brookside Dr,
+p1278
+aV816 Calverley Ave,
+p1279
+aV500 W Sharon Ave APT 13,
+p1280
+aV21830 Volin Pl Houghton, MI 49931
+p1281
+aV305 Garnet St,
+p1282
+aV44736 Superior Rd,
+p1283
+aV1005 9th Ave,
+p1284
+aV500 W Sharon Ave,
+p1285
+aV1002 10th Ave,
+p1286
+aV47590 Waylene St Houghton, MI 49931
+p1287
+aVLots 35 And 36 Pilgrim River Acres,
+p1288
+aV701 W South Ave,
+p1289
+aV105 E Houghton Ave,
+p1290
+aV404 W Baraga Ave,
+p1291
+aV703 Cedar Bluff Dr APT 3,
+p1292
+aV803 W Douglass Ave,
+p1293
+aV309 Calverley Ave,
+p1294
+aV1104 College Ave,
+p1295
+aV1104 7th Ave,
+p1296
+aV47451 State Highway M26,
+p1297
+aV616 Garnet St,
+p1298
+aV47889 Manitou St,
+p1299
+aV19030 Canal Rd,
+p1300
+aV203 W Douglass Ave,
+p1301
+aV1003 6th Ave,
+p1302
+aV108 W Houghton Ave,
+p1303
+aV1269 Hickory Ln,
+p1304
+aV413 W Lakeshore Dr,
+p1305
+aV16867 Cedar Cove Dr,
+p1306
+aV5006 Portage Cv,
+p1307
+aVGreenway Dr LOT 8,
+p1308
+aV43193 Superior Rd,
+p1309
+aV1016 E Houghton Ave,
+p1310
+aV905 Donmar Dr,
+p1311
+aV21283 Lahti Rd,
+p1312
+aV1513 Brookside Dr,
+p1313
+aV307 W Edwards Ave,
+p1314
+aV2101 Spruce Ln,
+p1315
+aV4008 Portage Cv,
+p1316
+aV404 E Houghton Ave,
+p1317
+aV46141 Us Highway 41,
+p1318
+aV21896 Volin Pl,
+p1319
+aV1514 Brookside Dr,
+p1320
+aV45995 Superior Rd,
+p1321
+aV22505 Britz Rd,
+p1322
+aV47664 Mill Rd,
+p1323
+aV47769 Huron St,
+p1324
+aVPilgrim River Acres LOT 43,
+p1325
+aV2002 Balsam Ln,
+p1326
+aV19236 Calverley St,
+p1327
+aV45304 Superior Rd,
+p1328
+aV715 W Jacker Ave,
+p1329
+aV707 Cedar Bluff Dr,
+p1330
+aV802 W Edwards Ave,
+p1331
+aV7014 Sandpiper Dr,
+p1332
+aV401 W Edwards Ave,
+p1333
+aVPilgrim River Acres LOT 10,
+p1334
+aVLots 37 And 38 Pilgrim River Acres,
+p1335
+aV54263 Canal Rd,
+p1336
+aV811 W Edwards Ave,
+p1337
+aV301 W Douglass Ave,
+p1338
+aV614 Garnet St,
+p1339
+aV408 Portage St,
+p1340
+aV503 W South Ave,
+p1341
+aV21850 Peepsock Cir,
+p1342
+aV713 E South Ave,
+p1343
+aV43325 Superior Rd,
+p1344
+aV306 Quincy St,
+p1345
+aV19287 Copper Ridge Rd,
+p1346
+aV718 Cedar Bluff Dr,
+p1347
+aV201 W Baraga Ave,
+p1348
+aV1208 Memorial Rd,
+p1349
+aV700 W Jacker Ave,
+p1350
+aV1517 Brookside Dr,
+p1351
+aV47470 M26,
+p1352
+aV503 4th St,
+p1353
+aV1207 E Houghton Ave,
+p1354
+aV105 E Douglass Ave,
+p1355
+aV907 Donmar Dr,
+p1356
+aV20147 E Sharon Ave Houghton, MI 49931
+p1357
+aV911 College Ave,
+p1358
+aV206 6th St,
+p1359
+aV1216 5th Ave,
+p1360
+aV602 Agate St,
+p1361
+aV1007 9th Ave,
+p1362
+aV405 Shelden Ave,
+p1363
+aV505 W Douglass Ave,
+p1364
+aV16865 Fire Hall Rd,
+p1365
+aV212 East St,
+p1366
+aV705 E Montezuma Ave,
+p1367
+aV52461 Canal Rd Houghton, MI 49931
+p1368
+aV606 W Edwards Ave,
+p1369
+aV53464 Osma Plat Rd,
+p1370
+aV50562 Canal Rd,
+p1371
+aV21706 Woodland Rd,
+p1372
+aV48361 Jefferson St,
+p1373
+aV511 W Jacker Ave,
+p1374
+aV46189 Us Highway 41,
+p1375
+aV46562 Us Highway 41,
+p1376
+aV46115 Superior Rd,
+p1377
+aV703 W Douglass Ave,
+p1378
+aV607 W Douglass Ave,
+p1379
+aVTbd B Sun View Dr,
+p1380
+aV47140 Green Acres Rd,
+p1381
+aVTbd G Sun View Dr,
+p1382
+aVLots 6 And 9 Pilgrim River Acres,
+p1383
+aV2105 Sherwood Dr,
+p1384
+aV218 Clark St,
+p1385
+aV206 2nd St,
+p1386
+aV17035 N Superior Rd,
+p1387
+aV406 E Houghton Ave,
+p1388
+aV47935 Us Highway 41,
+p1389
+aV401 W South Ave,
+p1390
+aV45595 Superior Rd,
+p1391
+aV301 Vivian St,
+p1392
+aV1105 6th Ave,
+p1393
+aV1900 Spruce Ln,
+p1394
+aV813 W Edwards Ave,
+p1395
+aVPilgrim River Acres LOT 50,
+p1396
+aV2001 Spruce Ln,
+p1397
+aV912 College Ave,
+p1398
+aVLots 26 And 27 Pilgrim River Acres,
+p1399
+aV2108 Country Ln,
+p1400
+aV2102 Spruce Ln,
+p1401
+aVTbd Country Ln,
+p1402
+aV109 W Edwards Ave,
+p1403
+aV2105 Country Ln,
+p1404
+aV213 East St,
+p1405
+aV709 E South Ave,
+p1406
+aV1112 6th Ave,
+p1407
+aV51924 Canal Rd,
+p1408
+aV15225 N Superior Rd,
+p1409
+aV1115 7th Ave,
+p1410
+aV421 W Jacker Ave,
+p1411
+aV1001 7th Ave,
+p1412
+aV503 W Douglass Ave,
+p1413
+aV54640 Canal Rd Houghton, MI 49931
+p1414
+aV19161 Calverley St Houghton, MI 49931
+p1415
+aV16298 Eilola Rd,
+p1416
+aV53944 Bay Shore Farm Rd,
+p1417
+aV47083 Green Acres Rd,
+p1418
+aVTbd 50 Pinehurst Ct Houghton, MI 49931
+p1419
+aV7000 Sandpiper Dr APT 27,
+p1420
+aV601 W Edwards Ave,
+p1421
+aV2224 Maureen Ln,
+p1422
+aV49935 Canal Rd Houghton, MI 49931
+p1423
+aV1214 7th Ave,
+p1424
+aV216 Clark St,
+p1425
+aV4012 Portage Cv,
+p1426
+aV204 E Douglass Ave,
+p1427
+aV1019 College Ave,
+p1428
+aV406 6th St,
+p1429
+aV707 Calverley Ave,
+p1430
+aV5012 Portage Cv,
+p1431
+aV704 W South Ave,
+p1432
+aV218 Blanche St,
+p1433
+aVTbd Cedar St,
+p1434
+aV503 Vivian St,
+p1435
+aV314 Shelden Ave # 3,
+p1436
+aVReal Estate & Homes For Sale
+p1437
+aV807 W Edwards Ave,
+p1438
+aV47060 Green Acres Rd,
+p1439
+aV47553 S Hwy Us-41,
+p1440
+aV46940 Sheridan Pl,
+p1441
+aV19894 James St Houghton, MI 49931
+p1442
+aV7025 Sandpiper Dr,
+p1443
+aV802 Oak Grove Pkwy,
+p1444
+aV47026 Sheridan Pl,
+p1445
+aV49560 Gedvillas Rd,
+p1446
+aV46108 Us Highway 41,
+p1447
+aVTbd 20 Sixth Ave,
+p1448
+aV1300 W Sharon Ave Houghton, MI 49931
+p1449
+aV501 Calverley Ave,
+p1450
+aV1304 Agate St,
+p1451
+aV701 W South Ave,
+p1452
+aV7034 Sandpiper Dr,
+p1453
+aV52770 Red Brick Rd,
+p1454
+aV54415 Red Barn Rd,
+p1455
+aV110 W Douglass Ave,
+p1456
+aV302 W Jacker Ave,
+p1457
+aV213 Clark St,
+p1458
+aV47605 2nd St Houghton, MI 49931
+p1459
+aV722 W Jacker Ave,
+p1460
+aV1113 12th Ave,
+p1461
+aV46580 Us Highway 41,
+p1462
+aV402 Emerald St,
+p1463
+aV721 W Baraga Ave,
+p1464
+aV17144 N Superior Rd,
+p1465
+aV22469 Britz Rd,
+p1466
+aV107 W Douglass Ave,
+p1467
+aVTbd 21 Sixth Ave LOT 21,
+p1468
+aVTbd 13 Razorback Dr,
+p1469
+aV716 Cedar Bluff Dr,
+p1470
+aV22622 Fox Farm Rd,
+p1471
+aV417 W Lakeshore Dr,
+p1472
+aV45379 Superior Rd,
+p1473
+aV1111 6th Ave,
+p1474
+aVTbd 20 Sixth Ave LOT 20,
+p1475
+aV406 Garnet St,
+p1476
+aV16627 N Superior Rd,
+p1477
+aV20080 Frederick St,
+p1478
+aV207 3rd St,
+p1479
+aV22041 Royalwood Rd Houghton, MI 49931
+p1480
+aV800 W Douglass Ave,
+p1481
+aV1001 10th Ave,
+p1482
+aV100 Bluff View Dr Apt 302,
+p1483
+aV903 W Lakeshore Cir,
+p1484
+aV46347 Us Highway 41,
+p1485
+aVLots 33 And 34 Pilgrim River Acres,
+p1486
+aV47560 Gundlach Rd,
+p1487
+aV48455 Park Ave Houghton, MI 49931
+p1488
+aV106 W Houghton Ave,
+p1489
+aV47470 M26 Houghton, MI 49931
+p1490
+aV908 Arborway APT 8,
+p1491
+aV1509 Brookside Dr,
+p1492
+aV601 W South Ave,
+p1493
+aV401 Dodge St,
+p1494
+aV506 W Edwards Ave,
+p1495
+aV17275 Bay Shore Rd,
+p1496
+aV46996 Sheridan Pl,
+p1497
+aV1930 Country Ln,
+p1498
+aV21944 Peepsock Rd,
+p1499
+aV401 W Edwards Ave,
+p1500
+aV49645 Gedvillas Rd,
+p1501
+aV925 Dodge St,
+p1502
+aV19834 Boundry Rd,
+p1503
+aV214 East St,
+p1504
+aV48496 Lincoln St,
+p1505
+aV1020 Champion St,
+p1506
+aV53862 Bay Shore Rd,
+p1507
+aV713 Cedar Bluff Dr,
+p1508
+aV803 Calverley Ave,
+p1509
+aV47744 Main St,
+p1510
+aV517 W Jacker Ave,
+p1511
+aV111 W Douglass Ave,
+p1512
+aV47544 2nd St,
+p1513
+aV21955 Woodland Rd Houghton, MI 49931
+p1514
+aV43457 Superior Rd,
+p1515
+aV17804 Chassell Painesdale Rd,
+p1516
+aV2107 Spruce Ln,
+p1517
+aV51153 Canal Rd,
+p1518
+aVPilgrim River Acres LOT 54,
+p1519
+aV16402 Ruohonen Rd,
+p1520
+aV126 Shelden Ave,
+p1521
+aV20083 Henry St,
+p1522
+aVTbd C South Ave,
+p1523
+aV920 Dodge St APT 506,
+p1524
+aV403 W Baraga Ave,
+p1525
+aV7010 Sandpiper Dr,
+p1526
+aV43097 Superior Rd,
+p1527
+aV1209 7th Ave,
+p1528
+aV508 W Douglass Ave,
+p1529
+aV58241 Lakeshore Dr,
+p1530
+aV21980 Woodland Rd Houghton, MI 49931
+p1531
+aVTbd 22 Sixth Ave LOT 22,
+p1532
+aV21801 Peepsock Cir,
+p1533
+aV1515 Brookside Dr,
+p1534
+aV1520 Brookside Dr,
+p1535
+aV16280 Eilola Rd,
+p1536
+aV49665 Windigo Trl,
+p1537
+aV0 Spring Hillsdale, MI 49242
+p1538
+aV48420 Park Ave,
+p1539
+aV1312 E Houghton Ave,
+p1540
+aV46645 Us Highway 41,
+p1541
+aV1006 5th Ave,
+p1542
+aV47824 Main St Houghton, MI 49931
+p1543
+aV17433 Osma Plat Rd,
+p1544
+aV1011 9th Ave,
+p1545
+aV2107 Country Ln,
+p1546
+aVTbd F Sun View Dr,
+p1547
+aV218 East St,
+p1548
+aV1801 Spruce Ln,
+p1549
+aV507 Calverley Ave,
+p1550
+aV51250 Blue Top Cabin Rd,
+p1551
+aV605 W Douglass Ave,
+p1552
+aV22055 Royalwood Rd,
+p1553
+aV21985 Volin Pl Houghton, MI 49931
+p1554
+aV1220 Garnet St,
+p1555
+aV1501 Ravine Side Dr,
+p1556
+aVTbd A Sun View Dr,
+p1557
+aV400 Agate St,
+p1558
+aV43214 Superior Rd,
+p1559
+aV111 W Houghton Ave,
+p1560
+aV16730 Liminga Rd,
+p1561
+aVTbd & 37 Apple Blossom Ct LOT 42,
+p1562
+aV1209 7th Ave,
+p1563
+aV46509 Us Highway 41,
+p1564
+aVLots 7 And 8 Pilgrim River Acres,
+p1565
+aV224 Blanche St,
+p1566
+aV805 Washington St,
+p1567
+aV1126 Quincy Cove Rd,
+p1568
+aV108 Calverley Ave,
+p1569
+aV17146 Fire Hall Rd,
+p1570
+aV44664 Superior Rd,
+p1571
+aV48340 Park Ave Houghton, MI 49931
+p1572
+aV108 W Baraga Ave,
+p1573
+aV46985 Paradise Rd,
+p1574
+aV227 Hubbell St,
+p1575
+aV506 4th St,
+p1576
+aV200 E Jacker Ave,
+p1577
+aV307 Franklin St,
+p1578
+aV107 Dodge St,
+p1579
+aV403 Franklin St,
+p1580
+aV1530 Ravine Side Dr,
+p1581
+aV46687 Paradise Rd,
+p1582
+aV603 W Houghton Ave,
+p1583
+aV17634 Bay Shore Rd,
+p1584
+aV1013 7th Ave,
+p1585
+aV813 Calverley Ave,
+p1586
+aV306 Portage St,
+p1587
+aV46408 Green Acres Rd,
+p1588
+aV311 W South Ave,
+p1589
+aV47175 Us Highway 41,
+p1590
+aV205 W Edwards Ave,
+p1591
+aV401 Agate St,
+p1592
+aV5003 Portage Cv,
+p1593
+aV1107 10th Ave,
+p1594
+aV1104 5th Ave,
+p1595
+aVTbd 12 Razorback Dr,
+p1596
+aV48011 Us Highway 41,
+p1597
+aV709 W Edwards Ave,
+p1598
+aV1525 Brookside Dr,
+p1599
+aV1215 5th Ave,
+p1600
+aV305 1st St,
+p1601
+aVLot 11 Sherwood,
+p1602
+aV2101 Hunters Ln,
+p1603
+aV47765 Main St Houghton, MI 49931
+p1604
+aV1010 5th Ave,
+p1605
+aV1281 Hickory Ln,
+p1606
+aV5010 Portage Cv,
+p1607
+aV1105 Jasper Ave,
+p1608
+aV19817 Haapapuro Rd,
+p1609
+aV7033 Sandpiper Dr,
+p1610
+aVGreenway Dr LOT 13-14,
+p1611
+aV52680 Red Brick Rd,
+p1612
+aV102 E Douglass Ave,
+p1613
+aV1001 Birch St,
+p1614
+aV509 W Baraga Ave,
+p1615
+aVReal Estate & Homes For Sale
+p1616
+aV1805 Middle Pointe Ln,
+p1617
+aV603 7th Ave,
+p1618
+aV400 W Baraga Ave,
+p1619
+aV21812 Woodland Rd,
+p1620
+aV204 W Douglass Ave,
+p1621
+aV54812 Canal Rd,
+p1622
+aV711 W Jacker Ave,
+p1623
+aV404 E Jacker Ave,
+p1624
+aV211 Hubbell St,
+p1625
+aV20084 Henry St Houghton, MI 49931
+p1626
+aV1100 Century Way,
+p1627
+aV5008 Portage Cv,
+p1628
+aV1907 Middle Pointe Ln Houghton, MI 49931
+p1629
+aV47743 Huron St,
+p1630
+aV52936 Red Brick Rd,
+p1631
+aV22189 Ridge Rd Houghton, MI 49931
+p1632
+aV306 Bridge St,
+p1633
+aV302 W Douglass Ave,
+p1634
+aV905 W Lakeshore Cir,
+p1635
+aV109 W Houghton Ave,
+p1636
+aV1301 Ruby Ave,
+p1637
+aV1217 5th Ave,
+p1638
+aV407 W Houghton Ave,
+p1639
+aV920 Dodge St # A,
+p1640
+aV47640 Main St,
+p1641
+aV46333 Us Highway 41,
+p1642
+aV615 Copper St,
+p1643
+aVTbd H Sun View Dr,
+p1644
+aV2106 Spruce Ln,
+p1645
+aV47119 Green Acres Rd,
+p1646
+aV301 Shelden Ave,
+p1647
+aV511 W Edwards Ave,
+p1648
+aV44190 Superior Rd,
+p1649
+aV800 E Houghton Ave,
+p1650
+aV105 W Douglass Ave,
+p1651
+aV46369 Us Highway 41,
+p1652
+aV305 E Montezuma Ave,
+p1653
+aV105 W Baraga Ave,
+p1654
+aV914 6th Ave,
+p1655
+aV1901 Spruce Ln,
+p1656
+aV1804 Robindale Dr,
+p1657
+aV1002 Birch St,
+p1658
+aV603 W Douglass Ave,
+p1659
+aV1220 Military Rd,
+p1660
+aV1007 10th Ave,
+p1661
+aV604 4th St,
+p1662
+aV407 W South Ave,
+p1663
+aVTbd C South Ave Houghton, MI 49931
+p1664
+aV409 W Douglass Ave,
+p1665
+aV50504 Rocky Shores Rd,
+p1666
+aV614 Copper St,
+p1667
+aV46983 Us Highway 41,
+p1668
+aV44603 Superior Rd,
+p1669
+aV46821 Lahti Rd,
+p1670
+aV1519 Ravine Side Dr,
+p1671
+aV19889 Horatio St,
+p1672
+aV504 Calverley Ave,
+p1673
+aV2005 Sherwood Dr Houghton, MI 49931
+p1674
+aV1527 Brookside Dr,
+p1675
+aV16370 Liminga Rd,
+p1676
+aV403 N South Ave,
+p1677
+aV400 W South Ave,
+p1678
+aV45403 Superior Rd,
+p1679
+aV2104 Hunters Ln,
+p1680
+aV908 E Sharon Ave,
+p1681
+aVTbd & 36 Oak Ridge St LOT 35,
+p1682
+aV22475 Britz Rd,
+p1683
+aV818 E Sharon Ave,
+p1684
+aV1913 Robindale Dr,
+p1685
+a.
